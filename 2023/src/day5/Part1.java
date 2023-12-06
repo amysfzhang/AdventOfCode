@@ -11,7 +11,7 @@ import java.util.*;
  *
  * @author amy
  */
-public class Part1and2 {
+public class Part1 {
     public static void main (String[] args) {
         String[] lines = Reader.read().split("\n");
 
